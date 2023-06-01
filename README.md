@@ -50,7 +50,7 @@
 </div>
 
 ## Features
-
+ 
 The Excalidraw editor (npm package) supports:
 
 - 💯&nbsp;Free & open-source.
